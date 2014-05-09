@@ -1,4 +1,4 @@
-== Micro-Reddit
+## Micro-Reddit
 
 **A Ruby on Rails exercise for ActiveRecord and Associations 
 from [The Odin Project](http://www.theodinproject.com/ruby-on-rails/building-with-active-record)**
